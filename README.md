@@ -8,3 +8,5 @@
 **Questions: Write your answers as a block comment in the js file**
 1. Remove a parenthesis from the first statement and run the code. Does your statement print? 
 2. Is there an error? If so, what kind of error is it?
+
+Syntax Error caused by console.log('Hello Wolrd)
